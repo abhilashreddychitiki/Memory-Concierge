@@ -1,0 +1,74 @@
+[
+  {
+    "id": "sarah_chen",
+    "name": "Sarah Chen",
+    "title": "Chief Strategy Officer",
+    "tier": "Aurelian Crown",
+    "avatar_initials": "SC",
+    "stays": 7,
+    "member_since": "2022",
+    "preferences": {
+      "room_temp": "68 F",
+      "pillow": "firm",
+      "wine": "Burgundy Pinot Noir",
+      "floor": "high floor, city view",
+      "dietary": "no shellfish",
+      "amenities": ["yoga mat", "sparkling water", "extra towels"]
+    },
+    "routines": {
+      "morning": "gym at 7:30 AM, green tea, light breakfast at 8:15 AM",
+      "evening": "glass of wine in room before dinner"
+    },
+    "upcoming_stay": {
+      "check_in_original": "2026-04-28T17:00:00",
+      "check_in_adjusted": "2026-04-28T19:00:00",
+      "flight": "UA 892 SFO to SFO",
+      "flight_status": "delayed_2hrs",
+      "meetings": ["9:00 AM board meeting - The Battery, SF"],
+      "purpose": "business",
+      "room": "1408",
+      "nights": 2
+    },
+    "history": [
+      { "date": "March 2026", "note": "Requested extra pillows on arrival" },
+      { "date": "January 2026", "note": "Celebrated promotion - sent champagne" },
+      { "date": "October 2024", "note": "Wedding anniversary stay - roses arranged" },
+      { "date": "June 2024", "note": "First stay - noted city view preference" }
+    ]
+  },
+  {
+    "id": "james_okafor",
+    "name": "James Okafor",
+    "title": "Venture Partner",
+    "tier": "Vale Signature",
+    "avatar_initials": "JO",
+    "stays": 3,
+    "member_since": "2024",
+    "preferences": {
+      "room_temp": "72 F",
+      "pillow": "soft",
+      "wine": "Napa Cabernet Sauvignon",
+      "floor": "low floor, garden view",
+      "dietary": "vegan",
+      "amenities": ["standing desk setup", "still water", "blackout curtains"]
+    },
+    "routines": {
+      "morning": "meditation at 6:30 AM, black coffee, work from room until 9",
+      "evening": "early dinner at 6:30 PM, in bed by 10 PM"
+    },
+    "upcoming_stay": {
+      "check_in_original": "2026-04-29T14:00:00",
+      "check_in_adjusted": "2026-04-29T14:00:00",
+      "flight": "AA 210 LAX to SFO",
+      "flight_status": "on_time",
+      "meetings": ["2:00 PM LP meeting - Meridian House"],
+      "purpose": "business",
+      "room": "204",
+      "nights": 1
+    },
+    "history": [
+      { "date": "February 2026", "note": "Requested standing desk - arranged same day" },
+      { "date": "November 2025", "note": "First stay - vegan preference noted" }
+    ]
+  }
+]

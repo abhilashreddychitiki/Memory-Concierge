@@ -1,0 +1,8 @@
+node_modules/
+.next/
+out/
+.env*.local
+.next-dev.log
+.next-dev.err.log
+npm-debug.log*
+Agents.md.txt

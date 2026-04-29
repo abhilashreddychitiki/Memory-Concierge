@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: #0f0a0b;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  background:
+    radial-gradient(circle at top left, rgba(107, 31, 42, 0.26), transparent 34rem),
+    linear-gradient(135deg, #0f0a0b 0%, #15100f 52%, #101416 100%);
+  color: #f5f0eb;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+@keyframes pulseGold {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(201, 168, 76, 0.34);
+  }
+  50% {
+    box-shadow: 0 0 0 6px rgba(201, 168, 76, 0);
+  }
+}
+
+.gold-pulse {
+  animation: pulseGold 2s ease infinite;
+}
+
+.suite-photo {
+  background-image:
+    linear-gradient(90deg, rgba(15, 10, 11, 0.9), rgba(15, 10, 11, 0.46)),
+    url("https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1600&q=80");
+  background-position: center;
+  background-size: cover;
+}
+
+.scrollbar-thin {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(201, 168, 76, 0.48) rgba(255, 255, 255, 0.06);
+}
