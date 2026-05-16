@@ -8,7 +8,7 @@ const config: Config = {
         gold: "#c9a84c",
         "gold-light": "#f5e6c0",
         "gold-dark": "#9a7a2e",
-        rosewood: "#6b1f2a",
+        garnet: "#6b1f2a",
         ink: "#0f0a0b",
         linen: "#f5f0eb"
       },

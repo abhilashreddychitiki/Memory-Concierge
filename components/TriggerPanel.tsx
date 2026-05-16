@@ -38,7 +38,7 @@ const colorMap: Record<string, string> = {
   amber: "border-amber-700/50 bg-amber-950/30 text-amber-300 hover:border-amber-500",
   green: "border-green-700/50 bg-green-950/30 text-green-300 hover:border-green-500",
   blue: "border-sky-700/50 bg-sky-950/30 text-sky-300 hover:border-sky-500",
-  rose: "border-rosewood/70 bg-rosewood/30 text-rose-200 hover:border-rose-400"
+  rose: "border-garnet/70 bg-garnet/30 text-rose-200 hover:border-rose-400"
 };
 
 export default function TriggerPanel({
